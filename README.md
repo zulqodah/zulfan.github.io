@@ -1,3 +1,3 @@
 # zulfan.github.io
 public corporation
-this is wwebsite corporation interface
+this is website corporation interface
